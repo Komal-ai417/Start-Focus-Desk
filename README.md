@@ -6,13 +6,21 @@
 
 Live webcam preview · Eye openness score · Audio alerts · Session timer
 
-[Get started](#quick-start) · [Change the sounds](#change-the-alert-sounds) · [Our products](#our-products) · [Troubleshooting](#troubleshooting)
+[Watch the demo](#demo) · [Get started](#quick-start) · [Change the sounds](#change-the-alert-sounds) · [Our products](#our-products) · [Troubleshooting](#troubleshooting)
 
 </div>
 
 ---
 
 Focus Desk brings your camera preview, study session timer, and distraction alerts into a charcoal and mint dashboard. It checks for closed eyes, a hidden face, and phones visible to the camera.
+
+## Demo
+
+[![Focus Desk dashboard with a phone alert](docs/focus-desk-demo.jpg)](docs/focus-desk-demo.mp4)
+
+See the dashboard and alert sounds in action. Click the preview or [open the full demo video](docs/focus-desk-demo.mp4).
+
+## Features
 
 | Feature | What you see |
 | --- | --- |
