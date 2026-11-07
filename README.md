@@ -119,3 +119,9 @@ Focus Desk/
 ```
 
 Focus Desk processes webcam frames on your computer and displays them live.
+
+## License
+
+Original Focus Desk code and documentation are available under the [MIT License](LICENSE). You may use, copy, modify, and distribute these contributions while keeping the copyright and license notice.
+
+Third-party code, dependencies, model files, and audio retain their respective rights and license terms. The MIT license applies to contributions owned by the copyright holder. The included Ultralytics YOLO model and dependency have their own licensing requirements. Review the [Ultralytics license terms](https://www.ultralytics.com/license) when using or distributing the complete application.
